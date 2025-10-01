@@ -33,7 +33,7 @@
 
     class Person
     {
-        public string name { get; set; }
+        public string Name { get; set; }
         public int Age { get; set; }
 
         public DateOnly Birthday { get; set; }
